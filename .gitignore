@@ -1,0 +1,6 @@
+local/
+data/
+unsloth_compiled_cache/
+DeepSeek-R1-Word-Reverser/
+.vscode/
+outputs/
